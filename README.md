@@ -1,3 +1,7 @@
+# Do Not Use
+
+Project merged to https://github.com/CurbSoftware/desktop-xlets.
+
 # Workspace Names for KDE Plasma
 
 One button per virtual desktop; click to switch. In a panel the
